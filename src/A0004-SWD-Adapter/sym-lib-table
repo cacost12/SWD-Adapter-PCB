@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Engine-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Liquids-Engine-Controller/lib/Engine-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "L0005-Valve-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/L0005-Valve-Controller/lib/L0005-Valve-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "A0004-SWD-Adapter")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/A0004-SWD-Adapter/lib/A0004-SWD-Adapter.kicad_sym")(options "")(descr ""))
+)
